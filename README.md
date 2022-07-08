@@ -1,6 +1,8 @@
 # remind-me
+
 A simple run of the mill app for adding text and links From Maximilian Schwarzmüller's course on Vue. 
 Mostly for testing purposes.
+
 --------------------------------------------------------
 
 ## Project setup
